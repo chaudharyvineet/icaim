@@ -1,0 +1,341 @@
+ <div class="item row justify-content-between">
+            <!-- img-frame-normal demo -->
+              
+              
+              
+               <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/aditya.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Aditya Singh</h6>
+                      <p class="small"></p>
+<!--
+                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div>
+-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+              
+              
+               <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/anirudh.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Anirudh Prakash</h6>
+                      <p class="small"> </p>
+<!--
+                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div>
+-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+              
+            <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim translateUp">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/arjun.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Arjun Gullbadhar</h6>
+                      <p class="small"></p>
+<!--
+                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div>
+-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- img-frame-normal demo -->
+            
+            <!-- img-frame-normal demo -->
+            <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim translateDown">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/vineet.jpg" alt="Vineet Chaudhary">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Vineet Chaudhary</h6>
+                      <p class="small"> </p>
+<!--
+                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div>
+-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+               <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim translateDown">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Abhuday Singh</h6>
+                      <p class="small"></p>
+<!--
+                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div>
+-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+              
+              <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Deva Raut</h6>
+                      <p class="small"></p>
+<!--
+                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div>
+-->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+              
+                <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Debtanu Ganguly</h6>
+                      <p class="small"></p>
+
+<!--                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div> -->
+
+                    </div>
+                  </div>
+                     </div>
+              </div>
+            </div>
+                     <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Sidhart Rai</h6>
+                      <p class="small"></p>
+
+<!--                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div> -->
+
+                    </div>
+                  </div>
+                     </div>
+              </div>
+            </div>
+                     <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Muskan Bansal</h6>
+                      <p class="small"></p>
+
+<!--                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div> -->
+
+                    </div>
+                  </div>
+                     </div>
+              </div>
+            </div>
+                     <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Debtanu Ganguly</h6>
+                      <p class="small"></p>
+
+<!--                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div> -->
+
+                    </div>
+                  </div>
+                     </div>
+              </div>
+            </div>
+                     <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Debtanu Ganguly</h6>
+                      <p class="small"></p>
+
+<!--                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div> -->
+
+                    </div>
+                  </div>
+                     </div>
+              </div>
+            </div>
+                     <div class="col-12 col-sm-6 col-md-3 center-vh">
+              <div class="section-content anim">
+                <div class="images text-center">
+                  <div class="img-avatar-alpha">
+                    <div class="img-1 shadow">
+                      <a href="#">
+                        <img class="img crc" src="images/shetty.jpg" alt="Image">
+                      </a>
+                    </div>
+                    <div class="legend text-center pos-abs">
+                      <h6>Debtanu Ganguly</h6>
+                      <p class="small"></p>
+
+<!--                      <div class="icons">
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-github"></i>
+                        </a>
+                        <a class="icon-btn" href="#">
+                          <i class="icon fab fa-linkedin"></i>
+                        </a>
+                      </div> -->
+
+                    </div>
+                  </div>
+                     </div>
+              </div>
+            </div>
+                </div>
